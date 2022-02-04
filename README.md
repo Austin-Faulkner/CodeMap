@@ -1,5 +1,5 @@
 # CodeMap
-If using Chrome and see issues with output, please use CTRL + SHIFT + R. Chrome is the one web browser we encounter issues with.
+If using Chrome and see issues with output, please use CTRL + SHIFT + R. Chrome is the one web browser with which the app encounters issues.
 
 
 <img width="1426" alt="Screen Shot 2021-12-14 at 5 01 00 PM" src="https://user-images.githubusercontent.com/7588505/146093226-8cdd8506-fb07-477a-9d8b-4fced3913b5f.png">
